@@ -1,0 +1,30 @@
+Cristiano ronaldo pernah main di tim.....
++Everton
++Real madrid
++Barcelona
++Persib
++B
+#Tim real madrid menjuarai kompetisi ucl sebanyak....
++Lima
++Tujuh
++Empat belas
++Lima belas
++C
+#Legenda kiper tim real madrid adalah .....
++Sergio ramos
++Keylor navas
++Oliver giroud
++I made wirawan
++B
+#Nama stadion tim real madrid adalah....
++Jalak harupat
++Santiago bernabeu
++Camp nou
++Santiago berdebu
++B
+#Pemain tengah tim real madrid adalah....
++Iker cassilas
++Kevin de bruyne
++Harry kane
++Toni kroos
++D
